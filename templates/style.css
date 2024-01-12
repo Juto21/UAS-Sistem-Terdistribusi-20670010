@@ -59,9 +59,12 @@ section {
 }
 
 /* style.css */
+/* style.css */
 .logo {
     position: absolute;
     top: 0;
     left: 0;
-    margin: 20px; /* Tambahkan margin sesuai keinginan untuk memberi ruang di sekitar logo */
+    margin: 5px;
+    width: 110px; /* Ganti nilai ini sesuai keinginan */
+    height: auto; /* Ini memastikan aspek rasio gambar tetap terjaga */
 }
