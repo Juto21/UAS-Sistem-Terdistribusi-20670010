@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "judul": "coba 1",
+    "pengarang": "Mr X"
+  },
+  {
+    "id": 2,
+    "judul": "coba 1",
+    "pengarang": "coba 2"
+  },
+  {
+    "id": 3,
+    "judul": "coba 1",
+    "pengarang": "coba 2"
+  },
+  {
+    "id": 4,
+    "judul": "Kancil",
+    "pengarang": "Mr X"
+  },
+  {
+    "id": 5,
+    "judul": "Kancil",
+    "pengarang": "Mr X"
+  },
+  {
+    "id": 6,
+    "judul": "Kancil",
+    "pengarang": "coba 2"
+  }
+]
